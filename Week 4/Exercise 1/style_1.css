@@ -1,0 +1,21 @@
+h1 {
+    height: 80px;
+    width: 70%;
+    margin: 40px auto;
+    border: slateblue 2px solid;
+    border-radius: 10px;
+    padding-top: 20px;
+    background-color: aliceblue;
+    font-weight: 300;
+    letter-spacing: 0.1em;
+    text-align: center;
+}
+
+p {
+    width: 500px;
+    line-height: 1.6;
+    font-size: 18px;
+    border-bottom: slateblue 1px solid;
+    margin: auto;
+    margin-bottom: 20px;
+}
