@@ -90,3 +90,20 @@ ul {
 ul li {
     margin-bottom: 10px; 
 }
+
+#products .product {
+    width: 400px;
+    margin: 20px;
+  }
+  
+  #products .product img {
+    width: 400px;
+    height: 400px;
+    border-radius: 0%;
+  }
+  
+  #products .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
