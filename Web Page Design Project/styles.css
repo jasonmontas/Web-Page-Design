@@ -124,3 +124,10 @@ ul li {
         align-items: center;
     }
 }
+
+.container {
+    display: grid;
+    grid-template-columns: 20px 20px;
+    gap: 40%;
+    text-align: center;
+}
