@@ -125,9 +125,15 @@ ul li {
     }
 }
 
-.container {
+#about {
+    text-align: center; 
+    margin: 0 auto;
+}
+
+#about .container {
+    margin: 5% auto; 
     display: grid;
-    grid-template-columns: 20px 20px;
-    gap: 40%;
-    text-align: center;
+    grid-template-rows: 1fr; 
+    gap: 40px; 
+    justify-items: center;
 }
